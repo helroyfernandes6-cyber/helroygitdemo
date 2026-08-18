@@ -1,3 +1,3 @@
 # helroygitdemo
 this is my first repo
-author
+My project
